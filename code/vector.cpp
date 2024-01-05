@@ -31,7 +31,7 @@ int main(){
     cout << endl;
 
     //vector of vectors (2d vector)
-    vector<vector<int>> v2d(5, vector<int>(5, 0)); // declaring a 2d vector of size 5x5 and initializing all elements to 0
+    vector<vector<int>> v2d(5, vector<int>(5, 0)); // declaring a 2d vector of size 5x5 and initializing all elements to 0.
     
     // tranvering a 2d vector
     for(int i=0; i<v2d.size(); i++){
